@@ -1,0 +1,13 @@
+Descrição,Acurácia
+XGBoost com RFE (Grid),0.9991876523151909
+XGBoost com RFE (Random),0.9967506092607636
+SVM com RFE (Grid),0.9675060926076361
+SVM com RFE (Random),0.9675060926076361
+XGBoost com Random Forest (Grid),0.9991876523151909
+XGBoost com Random Forest (Random),0.9967506092607636
+SVM com Random Forest (Grid),0.9658813972380179
+SVM com Random Forest (Random),0.9658813972380179
+XGBoost com SelectKBest (Grid),0.9991876523151909
+XGBoost com SelectKBest (Random),0.9959382615759546
+SVM com SelectKBest (Grid),0.9675060926076361
+SVM com SelectKBest (Random),0.9675060926076361
