@@ -1,13 +1,25 @@
-Descrição,Acurácia
-XGBoost com RFE (Grid),0.9991876523151909
-XGBoost com RFE (Random),0.9967506092607636
-SVM com RFE (Grid),0.9675060926076361
-SVM com RFE (Random),0.9675060926076361
-XGBoost com Random Forest (Grid),0.9991876523151909
-XGBoost com Random Forest (Random),0.9967506092607636
-SVM com Random Forest (Grid),0.9658813972380179
-SVM com Random Forest (Random),0.9658813972380179
-XGBoost com SelectKBest (Grid),0.9991876523151909
-XGBoost com SelectKBest (Random),0.9959382615759546
-SVM com SelectKBest (Grid),0.9675060926076361
-SVM com SelectKBest (Random),0.9675060926076361
+Descrição,Resultados
+XGBoost com RFE (Grid),"(0.9991876523151909, np.float64(0.9989868788048626), array([[889,   1],
+       [  0, 341]]))"
+XGBoost com RFE (Random),"(0.9967506092607636, np.float64(0.995943853174734), array([[888,   2],
+       [  2, 339]]))"
+SVM com RFE (Grid),"(0.9675060926076361, np.float64(0.9585183887207758), array([[882,   8],
+      [ 32, 309]]))"
+SVM com RFE (Random),"(0.9675060926076361, np.float64(0.9585183887207758), array([[882,   8],
+       [ 32, 309]]))"
+XGBoost com Random Forest (Grid),"(0.9991876523151909, np.float64(0.9989868788048626), array([[889,   1],
+       [  0, 341]]))"
+XGBoost com Random Forest (Random),"(0.9967506092607636, np.float64(0.995936489073744), array([[889,   1],
+       [  3, 338]]))"
+SVM com Random Forest (Grid),"(0.9658813972380179, np.float64(0.9563598979013046), array([[882,   8],
+       [ 34, 307]]))"
+SVM com Random Forest (Random),"(0.9658813972380179, np.float64(0.9563598979013046), array([[882,   8],
+       [ 34, 307]]))"
+XGBoost com SelectKBest (Grid),"(0.9991876523151909, np.float64(0.9989868788048626), array([[889,   1],
+       [  0, 341]]))"
+XGBoost com SelectKBest (Random),"(0.9959382615759546, np.float64(0.9949159836353318), array([[889,   1],
+       [  4, 337]]))"
+SVM com SelectKBest (Grid),"(0.9675060926076361, np.float64(0.9585183887207758), array([[882,   8],
+       [ 32, 309]]))"
+SVM com SelectKBest (Random),"(0.9675060926076361, np.float64(0.9585183887207758), array([[882,   8],
+       [ 32, 309]]))"
